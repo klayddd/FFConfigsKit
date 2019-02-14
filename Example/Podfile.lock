@@ -1,0 +1,16 @@
+PODS:
+  - FFConfigsKit (0.1.0)
+
+DEPENDENCIES:
+  - FFConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFConfigsKit: 9a2a026d6d2c574db84aa0e56db4ac908696dc7b
+
+PODFILE CHECKSUM: 9f7a627c820ef713cc480c09c67b792c668daeba
+
+COCOAPODS: 1.6.0

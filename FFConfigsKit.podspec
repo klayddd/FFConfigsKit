@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/stevenJiechen/FFConfigsKit'
+  s.homepage         = 'https://github.com/klayddd/FFConfigsKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'stevenJiechen' => '393304520@qq.com' }
-  s.source           = { :git => 'https://github.com/stevenJiechen/FFConfigsKit.git', :tag => s.version.to_s }
+  s.author           = { 'klay' => '393304520@qq.com' }
+  s.source           = { :git => 'https://github.com/klayddd/FFConfigsKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FFConfigsKit/Classes/**/*'
+  s.source_files = 'FFConfigsKit/**/*'
   
   # s.resource_bundles = {
   #   'FFConfigsKit' => ['FFConfigsKit/Assets/*.png']
